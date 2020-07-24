@@ -1,0 +1,922 @@
+{
+    "sectors": [
+        [
+            [
+                {
+                    "member": "Семёнов",
+                    "color": "#D2B4DE"
+                },
+                {
+                    "member": "Дьячков",
+                    "color": "#CCD1D1"
+                },
+                {
+                    "member": "Гордеев",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Никитин",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Лаврентьев",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Новиков",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Куликов",
+                    "color": "#F5CBA7"
+                }
+            ],
+            [
+                {
+                    "member": "Прохоров",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Хохлов",
+                    "color": "#CCD1D1"
+                },
+                {
+                    "member": "Федосеев",
+                    "color": "#A3E4D7"
+                },
+                {
+                    "member": "Лазарев",
+                    "color": "#F5CBA7"
+                },
+                {
+                    "member": "Кабанов",
+                    "color": "#A3E4D7"
+                },
+                {
+                    "member": "Журавлёв",
+                    "color": "#A9CCE3"
+                },
+                {
+                    "member": "Кабанов",
+                    "color": "#A9CCE3"
+                }
+            ],
+            [
+                {
+                    "member": "Третьяков",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Андреев",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Кабанов",
+                    "color": "#D2B4DE"
+                },
+                {
+                    "member": "Воронов",
+                    "color": "#D4E4BC"
+                },
+                {
+                    "member": "Тарасов",
+                    "color": "#A3E4D7"
+                },
+                {
+                    "member": "Ковалёв",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Никифоров",
+                    "color": "#ABEBC6"
+                }
+            ],
+            [
+                {
+                    "member": "Прохоров",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Быков",
+                    "color": "#E6B0AA"
+                },
+                {
+                    "member": "Бобров",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Герасимов",
+                    "color": "#CCD1D1"
+                },
+                {
+                    "member": "Носков",
+                    "color": "#F7F9F9"
+                },
+                {
+                    "member": "Гаврилов",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Матвеев",
+                    "color": "#F7F9F9"
+                }
+            ],
+            [
+                {
+                    "member": "Гаврилов",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Лобанов",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Сысоев",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Гордеев",
+                    "color": "#A3E4D7"
+                },
+                {
+                    "member": "Мамонтов",
+                    "color": "#F7F9F9"
+                },
+                {
+                    "member": "Селезнёв",
+                    "color": "#AED6F1"
+                },
+                {
+                    "member": "Терентьев",
+                    "color": "#A3E4D7"
+                }
+            ],
+            [
+                {
+                    "member": "Елисеев",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Сысоев",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Медведев",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Михайлов",
+                    "color": "#D2B4DE"
+                },
+                {
+                    "member": "Абрамов",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Данилов",
+                    "color": "#AED6F1"
+                },
+                {
+                    "member": "Галкин",
+                    "color": "#CCD1D1"
+                }
+            ],
+            [
+                {
+                    "member": "Авдеев",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Рогов",
+                    "color": "#CCD1D1"
+                },
+                {
+                    "member": "Михайлов",
+                    "color": "#E6B0AA"
+                },
+                {
+                    "member": "Абрамов",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Марков",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Фомичёв",
+                    "color": "#E6B0AA"
+                },
+                {
+                    "member": "Шилов",
+                    "color": "#E6B0AA"
+                }
+            ],
+            [
+                {
+                    "member": "Александров",
+                    "color": "#A9CCE3"
+                },
+                {
+                    "member": "Абрамов",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Щербаков",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Виноградов",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Пахомов",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Васильев",
+                    "color": "#D4E4BC"
+                },
+                {
+                    "member": "Власов",
+                    "color": "#FAD7A0"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "member": "Юдин",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Щербаков",
+                    "color": "#AED6F1"
+                },
+                {
+                    "member": "Ковалёв",
+                    "color": "#A9CCE3"
+                },
+                {
+                    "member": "Васильев",
+                    "color": "#F7F9F9"
+                },
+                {
+                    "member": "Сафонов",
+                    "color": "#A2D9CE"
+                },
+                {
+                    "member": "Захаров",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Кулагин",
+                    "color": "#D4E4BC"
+                },
+                {
+                    "member": "Исаков",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Калашников",
+                    "color": "#F5CBA7"
+                },
+                {
+                    "member": "Зайцев",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Князев",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Аксёнов",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Бобылёв",
+                    "color": "#A9DFBF"
+                }
+            ],
+            [
+                {
+                    "member": "Самойлов",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Ершов",
+                    "color": "#F7F9F9"
+                },
+                {
+                    "member": "Бобров",
+                    "color": "#A9CCE3"
+                },
+                {
+                    "member": "Семёнов",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Гущин",
+                    "color": "#AED6F1"
+                },
+                {
+                    "member": "Корнилов",
+                    "color": "#A9CCE3"
+                },
+                {
+                    "member": "Попов",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Савин",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Брагин",
+                    "color": "#A3E4D7"
+                },
+                {
+                    "member": "Киселёв",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Давыдов",
+                    "color": "#A9CCE3"
+                },
+                {
+                    "member": "Никитин",
+                    "color": "#F7F9F9"
+                },
+                {
+                    "member": "Данилов",
+                    "color": "#F7F9F9"
+                }
+            ],
+            [
+                {
+                    "member": "Белов",
+                    "color": "#A3E4D7"
+                },
+                {
+                    "member": "Костин",
+                    "color": "#D2B4DE"
+                },
+                {
+                    "member": "Андреев",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Поляков",
+                    "color": "#E6B0AA"
+                },
+                {
+                    "member": "Веселов",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Борисов",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Осипов",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Журавлёв",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Логинов",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Блохин",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Иванов",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Буров",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Буров",
+                    "color": "#EDBB99"
+                }
+            ],
+            [
+                {
+                    "member": "Костин",
+                    "color": "#F7F9F9"
+                },
+                {
+                    "member": "Рябов",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Смирнов",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Анисимов",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Белов",
+                    "color": "#D4E4BC"
+                },
+                {
+                    "member": "Кузнецов",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Ершов",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Ефремов",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Агафонов",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Туров",
+                    "color": "#A2D9CE"
+                },
+                {
+                    "member": "Дроздов",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Зиновьев",
+                    "color": "#F5CBA7"
+                },
+                {
+                    "member": "Киселёв",
+                    "color": "#FAD7A0"
+                }
+            ],
+            [
+                {
+                    "member": "Колесников",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Евсеев",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Суворов",
+                    "color": "#E6B0AA"
+                },
+                {
+                    "member": "Харитонов",
+                    "color": "#F5CBA7"
+                },
+                {
+                    "member": "Шилов",
+                    "color": "#AED6F1"
+                },
+                {
+                    "member": "Стрелков",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Крюков",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Мухин",
+                    "color": "#A2D9CE"
+                },
+                {
+                    "member": "Фёдоров",
+                    "color": "#A3E4D7"
+                },
+                {
+                    "member": "Романов",
+                    "color": "#D2B4DE"
+                },
+                {
+                    "member": "Носков",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Семёнов",
+                    "color": "#A2D9CE"
+                },
+                {
+                    "member": "Лаврентьев",
+                    "color": "#FAD7A0"
+                }
+            ],
+            [
+                {
+                    "member": "Селиверстов",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Кононов",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Яковлев",
+                    "color": "#F7F9F9"
+                },
+                {
+                    "member": "Лаврентьев",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Давыдов",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Шилов",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Муравьёв",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Куликов",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Горшков",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Журавлёв",
+                    "color": "#A3E4D7"
+                },
+                {
+                    "member": "Сергеев",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Котов",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Самсонов",
+                    "color": "#F7F9F9"
+                }
+            ],
+            [
+                {
+                    "member": "Никифоров",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Мясников",
+                    "color": "#A2D9CE"
+                },
+                {
+                    "member": "Субботин",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Игнатов",
+                    "color": "#AED6F1"
+                },
+                {
+                    "member": "Суворов",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Щукин",
+                    "color": "#CCD1D1"
+                },
+                {
+                    "member": "Доронин",
+                    "color": "#AED6F1"
+                },
+                {
+                    "member": "Нестеров",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Филиппов",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Матвеев",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Нестеров",
+                    "color": "#A9CCE3"
+                },
+                {
+                    "member": "Тихонов",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Орехов",
+                    "color": "#EDBB99"
+                }
+            ],
+            [
+                {
+                    "member": "Васильев",
+                    "color": "#F5CBA7"
+                },
+                {
+                    "member": "Смирнов",
+                    "color": "#AED6F1"
+                },
+                {
+                    "member": "Сергеев",
+                    "color": "#F7F9F9"
+                },
+                {
+                    "member": "Якушев",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Волков",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Брагин",
+                    "color": "#A3E4D7"
+                },
+                {
+                    "member": "Игнатьев",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Жданов",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Брагин",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Колобов",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Горбунов",
+                    "color": "#D2B4DE"
+                },
+                {
+                    "member": "Туров",
+                    "color": "#F7F9F9"
+                },
+                {
+                    "member": "Евдокимов",
+                    "color": "#EDBB99"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "member": "Костин",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Дорофеев",
+                    "color": "#D4E4BC"
+                },
+                {
+                    "member": "Большаков",
+                    "color": "#D4E4BC"
+                },
+                {
+                    "member": "Макаров",
+                    "color": "#CCD1D1"
+                },
+                {
+                    "member": "Щукин",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Нестеров",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Ширяев",
+                    "color": "#FAD7A0"
+                }
+            ],
+            [
+                {
+                    "member": "Потапов",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Лобанов",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Бобылёв",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Егоров",
+                    "color": "#D2B4DE"
+                },
+                {
+                    "member": "Соловьёв",
+                    "color": "#D4E4BC"
+                },
+                {
+                    "member": "Бобров",
+                    "color": "#E6B0AA"
+                },
+                {
+                    "member": "Костин",
+                    "color": "#F5B7B1"
+                }
+            ],
+            [
+                {
+                    "member": "Корнилов",
+                    "color": "#E6B0AA"
+                },
+                {
+                    "member": "Орехов",
+                    "color": "#D4E4BC"
+                },
+                {
+                    "member": "Фёдоров",
+                    "color": "#F5CBA7"
+                },
+                {
+                    "member": "Денисов",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Фадеев",
+                    "color": "#E6B0AA"
+                },
+                {
+                    "member": "Зыков",
+                    "color": "#D2B4DE"
+                },
+                {
+                    "member": "Сергеев",
+                    "color": "#D7BDE2"
+                }
+            ],
+            [
+                {
+                    "member": "Савин",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Вишняков",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Миронов",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Дементьев",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Брагин",
+                    "color": "#A9CCE3"
+                },
+                {
+                    "member": "Копылов",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Мишин",
+                    "color": "#A3E4D7"
+                }
+            ],
+            [
+                {
+                    "member": "Карпов",
+                    "color": "#F5CBA7"
+                },
+                {
+                    "member": "Денисов",
+                    "color": "#ABEBC6"
+                },
+                {
+                    "member": "Шашков",
+                    "color": "#D2B4DE"
+                },
+                {
+                    "member": "Новиков",
+                    "color": "#F5CBA7"
+                },
+                {
+                    "member": "Моисеев",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Игнатов",
+                    "color": "#F7F9F9"
+                },
+                {
+                    "member": "Ситников",
+                    "color": "#A2D9CE"
+                }
+            ],
+            [
+                {
+                    "member": "Давыдов",
+                    "color": "#A9CCE3"
+                },
+                {
+                    "member": "Овчинников",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Лыткин",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Наумов",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Тимофеев",
+                    "color": "#A9DFBF"
+                },
+                {
+                    "member": "Королёв",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Ершов",
+                    "color": "#EDBB99"
+                }
+            ],
+            [
+                {
+                    "member": "Колобов",
+                    "color": "#F5CBA7"
+                },
+                {
+                    "member": "Борисов",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Зыков",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Максимов",
+                    "color": "#E5E7E9"
+                },
+                {
+                    "member": "Горшков",
+                    "color": "#F5B7B1"
+                },
+                {
+                    "member": "Кулагин",
+                    "color": "#FAD7A0"
+                },
+                {
+                    "member": "Киселёв",
+                    "color": "#A3E4D7"
+                }
+            ],
+            [
+                {
+                    "member": "Савельев",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Авдеев",
+                    "color": "#F9E79F"
+                },
+                {
+                    "member": "Васильев",
+                    "color": "#EDBB99"
+                },
+                {
+                    "member": "Щукин",
+                    "color": "#D2B4DE"
+                },
+                {
+                    "member": "Воронов",
+                    "color": "#A9CCE3"
+                },
+                {
+                    "member": "Рогов",
+                    "color": "#D7BDE2"
+                },
+                {
+                    "member": "Назаров",
+                    "color": "#ABEBC6"
+                }
+            ]
+        ]
+    ]
+}
