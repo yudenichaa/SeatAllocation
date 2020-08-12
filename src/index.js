@@ -4,7 +4,7 @@ import { Provider } from "react-redux";
 import { configureStore, getDefaultMiddleware } from "@reduxjs/toolkit";
 import logger from 'redux-logger'
 import rootReducer from "./reducers";
-import App from './containers/App';
+import App from './components/App';
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./styles/styles.css";
 

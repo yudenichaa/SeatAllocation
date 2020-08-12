@@ -1,5 +1,5 @@
 import { connect } from "react-redux";
-import App from "../components/App";
+import Sectors from "../components/Sectors";
 import { setMember } from "../reducers/slices/sectorsSlice";
 
 const mapStateToProps = state => ({
@@ -8,4 +8,4 @@ const mapStateToProps = state => ({
 
 const mapDispatchToProps = { setMember };
 
-export default connect(mapStateToProps, mapDispatchToProps)(App);
+export default connect(mapStateToProps, mapDispatchToProps)(Sectors);
